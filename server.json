@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/dtcc-swaps",
   "title": "Dtcc Swaps",
   "description": "DTCC Public Swap Price Dissemination — the real-time, CFTC-Part-43-mandated",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/dtcc-swaps",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-dtcc-swaps",
