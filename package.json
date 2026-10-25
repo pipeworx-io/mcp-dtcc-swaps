@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-dtcc-swaps",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "DTCC Public Swap Price Dissemination — the real-time, CFTC-Part-43-mandated public feed of swap transaction and pricing data disseminated by DTCC Data Repository, LLC, a CFTC/SEC-registered Swap Data Repository (SDR), at pddata.dtcc.com.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-6e8c3902232ab3efa92cc87931284e3ba52d67cac4899422c5c237b5ad71791b",
-    "sourceCommit": "5749f83c0ea115fab4c0c0ef04b66b05f2507d67"
+    "sourceHash": "v1-4ebe35cb518498a2192bd3f74fbcf4b032e623ed076a0268b271b4e7795277d8",
+    "sourceCommit": "29fb434ca65fe0f61191f19c3502f583f5fb99d7"
   }
 }
